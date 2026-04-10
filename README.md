@@ -11,7 +11,7 @@ A sleek and interactive web application designed for real-time score tracking in
 - ⚡ **Vanilla JavaScript**: Lightweight implementation without external dependencies for fast loading
 
 ## 🚀 Live Demo
-Experience the scoreboard in action: [https://iam269.github.io/Scoreboard/](https://iam269.github.io/Scoreboard/)
+Experience the scoreboard in action: [https://itsiamdev.github.io/Scoreboard/](https://itsiamdev.github.io/Scoreboard/)
 
 ## 🛠️ Technologies Used
 - **HTML5**: Semantic structure and accessibility
